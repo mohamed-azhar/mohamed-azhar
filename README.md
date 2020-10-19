@@ -1,5 +1,5 @@
 ### konichiwassup?? 👋
-Mohamed Azhar here. A .NET develeoper from the Maldives.
+Mohamed Azhar here. A .NET developer from the Maldives.
 
 [![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=mohamed-azhar)](https://github.com/mohamed-azhar/github-readme-stats)
 <!--
