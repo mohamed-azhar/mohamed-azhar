@@ -1,5 +1,7 @@
 ### konichiwassup?? 👋
 Mohamed Azhar here. A .NET develeoper from the Maldives.
+
+[![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=mohamed-azhar)](https://github.com/mohamed-azhar/github-readme-stats)
 <!--
 **mohamed-azhar/mohamed-azhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
