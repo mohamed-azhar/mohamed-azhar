@@ -1,9 +1,9 @@
 ### konichiwassup?? 👋
 Mohamed Azhar here. A .NET developer from the Maldives.
 
-[![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=mohamed-azhar&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/api?username=mohamed-azhar&show_icons=true&theme=onedark)
+[![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=mohamed-azhar&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/api?username=mohamed-azhar&show_icons=true&theme=onedark) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-azhar&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-azhar&show_icons=true&theme=onedark)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-azhar&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-azhar&show_icons=true&theme=onedark)
+
 
 <!--
 **mohamed-azhar/mohamed-azhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
