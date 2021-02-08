@@ -1,6 +1,5 @@
 ### konichiwassup?? 👋
-Mohamed Azhar here. A .NET developer from the Maldives.
-\![](https://vistr.dev/badge?repo=mohamed-azhar)
+Mohamed Azhar here. A .NET developer from the Maldives.  ![](https://vistr.dev/badge?repo=mohamed-azhar)
 
 [![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=mohamed-azhar&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/api?username=mohamed-azhar&show_icons=true&theme=onedark) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-azhar&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-azhar&show_icons=true&theme=onedark)
 
