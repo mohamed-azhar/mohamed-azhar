@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Azhar</h1>
 <h3 align="center">A .NET developer from the Maldives.</h3>
 
-- 🌱 I’m currently learning **SharePoint Framework and React**
-
-- 💬 Ask me about **.NET Core**
+- 📖 I’m currently learning **SharePoint Framework and React**
+- ❔ Ask me about **.NET** or **C#**
 
 
 <h3 align="left">Languages and Tools:</h3>
