@@ -13,4 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-azhar&show_icons=true&locale=en" alt="mohamed-azhar" /></p>
 
- <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-azhar&" alt="mohamed-azhar" /></p> -->
+[![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=mohamed-azhar&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/api?username=mohamed-azhar&show_icons=true&theme=onedark) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-azhar&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-azhar&show_icons=true&theme=onedark)
