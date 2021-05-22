@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Azhar</h1>
 <h3 align="center">A .NET developer from the Maldives.</h3>
 
-- 📖 I’m currently learning **SharePoint Framework and React**
+- 📖 I’m currently learning **SharePoint Framework**, **React** and **Duende Identity Server**
 - ❔ Ask me about **.NET** or **C#**
 
 
