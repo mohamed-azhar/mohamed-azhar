@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Azhar</h1>
+<h1 align="center">Mohamed Azhar Here 👋</h1>
 <h3 align="center">A .NET developer from the Maldives.</h3>
 
 - 📖 I’m currently learning **SharePoint Framework**, **React** and **Duende Identity Server**
