@@ -1,8 +1,8 @@
 <h1 align="center">Mohamed Azhar Here 👋</h1>
 <h3 align="center">A .NET developer from the Maldives.</h3>
 
-- 📖 I’m currently learning **SharePoint Framework**, **React** and **Duende Identity Server**
-- ❔ Ask me about **.NET** or **C#**
+ 📖 I’m currently learning **SharePoint Framework**, **React** and **Duende Identity Server**
+ ❔ Ask me about **.NET** or **C#**
 
 
 <h3 align="left">Languages and Tools:</h3>
