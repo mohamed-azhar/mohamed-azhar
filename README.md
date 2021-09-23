@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Azhar Here 👋</h1>
 <h3 align="center">A .NET developer from the Maldives.</h3>
 
-- 📖 I’m currently learning ** **
+- 📖 I’m currently learning a lot of things 
 - ❔ Ask me about **.NET** or **C#**
  
 
