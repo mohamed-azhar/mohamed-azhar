@@ -13,9 +13,9 @@
  </a>
  
  <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+   <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="40" height="40"/> 
  </a> 
- 
+ https://swimburger.net/media/fbqnp2ie/azure.svg
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql server" width="40" height="40"/> 
  </a> 
