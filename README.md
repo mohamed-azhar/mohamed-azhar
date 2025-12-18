@@ -16,7 +16,11 @@
  </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql server" width="40" height="40"/> 
- </a> 
+ </a>
+
+ <a href="https://www.postgresql.org" target="_blank"> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres" width="40" height="40"/> 
+ </a>
  
  <a href="https://www.w3schools.com/cs/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
